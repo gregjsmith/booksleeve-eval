@@ -1,0 +1,10 @@
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\bin\Debug\BooksleeveDemo.dll
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\bin\Debug\BooksleeveDemo.pdb
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\bin\Debug\BookSleeve.dll
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\bin\Debug\nunit.framework.dll
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\bin\Debug\BookSleeve.pdb
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\bin\Debug\BookSleeve.xml
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\bin\Debug\nunit.framework.xml
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\obj\Debug\BooksleeveDemo.csprojResolveAssemblyReference.cache
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\obj\Debug\BooksleeveDemo.dll
+C:\code\demos\BooksleeveDemo\BooksleeveDemo\obj\Debug\BooksleeveDemo.pdb
